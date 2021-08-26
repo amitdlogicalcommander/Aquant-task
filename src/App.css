@@ -38,6 +38,13 @@
 }
 
 .app-container{
-  width: 100vh;
-  height: 100vh;
+  width: 30%;
+  height: 30%;
+}
+.select-options{
+  width: 100%;
+}
+.label-coord-container{
+  display: flex;
+  justify-content: space-around;
 }
